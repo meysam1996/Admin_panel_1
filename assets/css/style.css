@@ -639,10 +639,6 @@ main .recent-orders a {
     }
 
     @keyframes showMenu {
-        from {
-            left: -100%;
-        }
-
         to {
             left: 0;
         }
